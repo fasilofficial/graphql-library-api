@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled binary files
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Mac OSX specific files
+.DS_Store
