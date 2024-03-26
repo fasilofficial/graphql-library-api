@@ -15,6 +15,10 @@ const schema = new GraphQLSchema({
   mutation: RootMutationType,
 });
 
+app.get("/", (req, res) => {
+  res.json({ message: "Welcome" });
+});
+
 app.use(
   "/graphql",
   graphqlHTTP({
