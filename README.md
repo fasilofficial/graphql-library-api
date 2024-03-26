@@ -4,9 +4,9 @@
 
 This document outlines the usage and functionality of a simple GraphQL library management system API designed to manage books and authors. The API allows users to query information about books and authors, as well as add new books and authors to the database (Currently using dummy data as a database).
 
-## Base URL
+## URL
 
-The base URL for accessing the GraphQL API is `/graphql`.
+The URL for accessing this GraphQL API is [https://graphql-library-api.onrender.com/graphql](https://graphql-library-api.onrender.com/graphql)
 
 ## Queries
 
